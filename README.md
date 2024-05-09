@@ -1,1 +1,1 @@
-This is a normal calculator made by using HTML, CSS and JavaScript within one hour. You can just download the file and open it with file explorer or any browser to use it or you can simply visit this website : https://seraj-tic-tac-toe.netlify.app/
+This is a normal calculator made by using HTML, CSS and JavaScript within one hour. You can just download the file and open it with file explorer or any browser to use it or you can simply visit this website : https://seraj-calculator.netlify.app/
